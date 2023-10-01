@@ -25,6 +25,3 @@ async function robo()  {
 }
 
 robo();
-/* TODO:
-Continuar o vídeo minuto: 6:13
-https://www.youtube.com/watch?v=4W55nFDyIrc */
